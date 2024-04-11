@@ -1,6 +1,3 @@
-# Dutch-email-analysis
-
-Here's a README.md that you can use for your repository, along with a simple `requirements.txt`:
 
 ### README.md
 
